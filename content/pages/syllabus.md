@@ -28,14 +28,177 @@ This course is graded P/D/F. There will be several homework assignments that con
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction to Mechanics of Materials {{< br >}}{{< br >}} _Basic concepts of mechanics, stress and strain, deformation, strength and fracture_ {{< br >}}{{< br >}}  | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Introduction to Classical Molecular Dynamics {{< br >}}{{< br >}} _Introduction into the molecular dynamics simulation; numerical techniques_ {{< br >}}{{< br >}}  | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Mechanics of Ductile Materials {{< br >}}{{< br >}} _Dislocations; crystal structures; deformation of metals_ {{< br >}}{{< br >}}  | Problem set 1 due |
-| 4 |  {{< br >}}{{< br >}} Dynamic Fracture of Brittle Materials {{< br >}}{{< br >}} _Nonlinear elasticity in dynamic fracture, geometric confinement, interfaces_ {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} The Cauchy-Born Rule {{< br >}}{{< br >}} _Calculation of elastic properties of atomic lattices_ {{< br >}}{{< br >}}  | &nbsp; |
-| 6 |  {{< br >}}{{< br >}} Mechanics of Biological Materials {{< br >}}{{< br >}} _Atomistic modeling of fracture of a nanocrystal of copper. All simulation codes and numerical tools will be explained in detail._ {{< br >}}{{< br >}}  | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Introduction to The Problem Set {{< br >}}{{< br >}} _Atomistic modeling of fracture of a nanocrystal of copper. All simulation codes and numerical tools will be explained in detail._ {{< br >}}{{< br >}}  | Problem set 2 due |
-| 8 |  {{< br >}}{{< br >}} Size Effects in Deformation of Materials {{< br >}}{{< br >}} _Size effects in deformation of materials: Is smaller stronger?_ {{< br >}}{{< br >}}  | &nbsp; |
-| &nbsp; | Final project due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Mechanics of Materials
+
+_Basic concepts of mechanics, stress and strain, deformation, strength and fracture_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to Classical Molecular Dynamics
+
+_Introduction into the molecular dynamics simulation; numerical techniques_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mechanics of Ductile Materials
+
+_Dislocations; crystal structures; deformation of metals_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Dynamic Fracture of Brittle Materials
+
+_Nonlinear elasticity in dynamic fracture, geometric confinement, interfaces_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Cauchy-Born Rule
+
+_Calculation of elastic properties of atomic lattices_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mechanics of Biological Materials
+
+_Atomistic modeling of fracture of a nanocrystal of copper. All simulation codes and numerical tools will be explained in detail._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction to The Problem Set
+
+_Atomistic modeling of fracture of a nanocrystal of copper. All simulation codes and numerical tools will be explained in detail._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Size Effects in Deformation of Materials
+
+_Size effects in deformation of materials: Is smaller stronger?_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final project due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
