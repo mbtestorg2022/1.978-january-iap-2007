@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 90f60c06-d578-ff04-ac25-c2799d5bf7d9
 resourcetype: Image
 title: fxcurve_002.jpg
 uid: cf4b4a1c-ce39-d9c3-e689-a765055519f3

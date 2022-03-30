@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 90f60c06-d578-ff04-ac25-c2799d5bf7d9
 resourcetype: Image
 title: bending_load.jpg
 uid: b204751d-8c73-dbe8-ef0c-5fd16ea340c6
